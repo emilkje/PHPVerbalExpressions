@@ -1,0 +1,19 @@
+{
+    "name": "verex/verex",
+    "description": "PHP Regular expressions made easy",
+    "authors": [
+        {
+            "name": "Verbal Expressions",
+            "email": "VerbalExpressions@github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+	"autoload": {
+        "psr-0": {
+            "VerEx": "src/"
+        }
+    }
+}

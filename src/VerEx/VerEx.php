@@ -37,6 +37,7 @@
 // 			->find(' ')
 // 			->replace("This is a small test http://somesite.com and some more text.", "-");
 
+namespace VerEx;
 
 class VerEx {
 
